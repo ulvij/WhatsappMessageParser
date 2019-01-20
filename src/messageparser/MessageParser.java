@@ -56,7 +56,6 @@ private static void read(){
                     messages.add(getMessage(text));
                     mapForPerson.put(getName(text), messages);
                 }
-            //messages.add(getMessage(text));
             }
        }
          
